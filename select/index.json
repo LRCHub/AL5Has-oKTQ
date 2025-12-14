@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "田園",
+  "base_artist": "Anzenchitai",
+  "createdAt": "2025-12-14T08:41:31.398760Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "田園 - Denen",
+      "artist": "Anzenchitai",
+      "has_synced": true,
+      "path": "select/01_田園_-_Denen_Anzenchitai.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "田園(2007 LIVE）",
+      "artist": "玉置浩二",
+      "has_synced": false,
+      "path": "select/02_田園(2007_LIVE)_玉置浩二.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "田園",
+      "artist": "玉置浩二",
+      "has_synced": true,
+      "path": "select/03_田園_玉置浩二.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "田園",
+      "artist": "Koji Tamaki",
+      "has_synced": true,
+      "path": "select/04_田園_Koji_Tamaki.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "田園",
+      "artist": "Anzen Chitai",
+      "has_synced": true,
+      "path": "select/05_田園_Anzen_Chitai.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "田園",
+      "artist": "玉置 浩二",
+      "has_synced": true,
+      "path": "select/06_田園_玉置_浩二.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "田園",
+      "artist": "安全地帯",
+      "has_synced": false,
+      "path": "select/pl_01_田園_安全地帯.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "田園",
+      "artist": "安全地帯",
+      "has_synced": false,
+      "path": "select/pl_02_田園_安全地帯.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "田園",
+      "artist": "安全地帯",
+      "has_synced": false,
+      "path": "select/pl_03_田園_安全地帯.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "田園",
+      "artist": "安全地帯",
+      "has_synced": false,
+      "path": "select/pl_04_田園_安全地帯.txt"
+    }
+  ]
+}
