@@ -1,8 +1,8 @@
 {
   "version": 1,
   "base_track": "田園",
-  "base_artist": "Anzenchitai",
-  "createdAt": "2025-12-14T08:41:31.398760Z",
+  "base_artist": "安全地帯",
+  "createdAt": "2026-02-20T08:00:04.984131Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -59,30 +59,6 @@
       "artist": "安全地帯",
       "has_synced": false,
       "path": "select/pl_01_田園_安全地帯.txt"
-    },
-    {
-      "id": "petitlyrics_2",
-      "source": "petitlyrics",
-      "title": "田園",
-      "artist": "安全地帯",
-      "has_synced": false,
-      "path": "select/pl_02_田園_安全地帯.txt"
-    },
-    {
-      "id": "petitlyrics_3",
-      "source": "petitlyrics",
-      "title": "田園",
-      "artist": "安全地帯",
-      "has_synced": false,
-      "path": "select/pl_03_田園_安全地帯.txt"
-    },
-    {
-      "id": "petitlyrics_4",
-      "source": "petitlyrics",
-      "title": "田園",
-      "artist": "安全地帯",
-      "has_synced": false,
-      "path": "select/pl_04_田園_安全地帯.txt"
     }
   ]
 }
